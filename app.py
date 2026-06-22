@@ -9,7 +9,6 @@ st.set_page_config(page_title="Arpit Singh | Portfolio", layout="wide")
 with st.sidebar:
     st.title("Arpit Singh")
     st.write("📧 arpitsinghiis25@gmail.com")
-    st.write("📞 (+91) 9760221658")
     st.write("🔗 [LinkedIn](https://www.linkedin.com/in/arpit-singh0369?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)")
     st.write("🐙 [GitHub](https://github.com/arp947)")
     st.write("💻 [LeetCode](https://leetcode.com/u/aDMzDu12ES/)")
